@@ -468,3 +468,14 @@ margin-bottom: 16px;
 .footer-text-studio {
 color: #f4f4fd;
 }
+.footer-oneblock {
+    margin-right: 120px;
+}
+
+.container-footer {
+    display: flex;
+    align-items: baseline;
+}
+
+
+
